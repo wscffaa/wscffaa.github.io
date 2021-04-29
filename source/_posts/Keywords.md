@@ -1,7 +1,12 @@
 ---
 title: 公众号关键词对应表
+tags:
+    -公众号
+categories: 公众号
+description: 公众号文章结构以及关键词对应表
 sticky: 10086
-top-img: https://gitee.com/wscffaa/picgo/raw/master/20210422131347.jpg
+cover: https://cdn.jsdelivr.net/gh/wscffaa/PICGO//20210423163349.jpg
+date: 2021年4月23日16:28:35
 ---
 # ==公众号文章结构以及关键词对应表==
 

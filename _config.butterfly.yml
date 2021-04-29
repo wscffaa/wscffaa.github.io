@@ -92,10 +92,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: 
+index_img: https://cdn.jsdelivr.net/gh/wscffaa/PICGO//20210423162926.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://gitee.com/wscffaa/picgo/raw/master/20210422131347.jpg
+default_top_img: https://cdn.jsdelivr.net/gh/wscffaa/PICGO//20210423162228.png
 #scffaa/picgo/raw/master/20210422130438.png
 
 # The banner image of archive page
