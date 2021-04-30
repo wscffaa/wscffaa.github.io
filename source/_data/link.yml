@@ -1,23 +1,69 @@
-- class_name: 友情链接
-  class_desc: 那些人，那些事
+class:
+  class_name: 酷酷のdalao们
+  cdescr: 给dalao递零食✿✿ヽ(°▽°)ノ✿
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网誌框架
+    1:
+      name: 超逸の技术博客
+      link: https://chocolate.blog.csdn.net/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      descr: 学如逆水行舟，不进则退
+      color: "#D2691E"
+      custom: link_custom #动画样式
+      time: 2s
+      # 鼠标悬停旋转角度
+      rotate: 360deg
 
-- class_name: 网站
-  class_desc: 值得推荐的网站
+class2:
+  class_name: 小伙伴们
+  cdescr: 给小伙伴们递茶✿✿ヽ(°▽°)ノ✿
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 视频网站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中国最大社交分享平台
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+    1:
+      name: 超逸の技术博客
+      link: https://chocolate.blog.csdn.net/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      descr: 学如逆水行舟，不进则退
+      
+class3:
+   class_name: 链接失效
+   cdescr: 怎么Server Down了呢？赶紧回来吧ヽ(。>д<)ｐ
+   link_list:
+    1:
+      name: 未知1
+      link: https://chocolate.blog.csdn.net/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar1.png
+      descr: test
+
+class4:
+  class_name: 友链样式（可选）
+  cdescr: 小伙伴可以选择或提供自己的友链风格嗷~（未选择就根据您的博客主题配色加边框）
+  link_list:
+    1:
+      name: 程序媛（默认）
+      link: https://chocolate.blog.csdn.net/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      descr: 粉色呼吸灯
+      color: "#ff9999"
+      custom: link_custom #动画样式
+      time: 2s
+      # 鼠标悬停旋转角度
+      rotate: 360deg
+    2:
+      name: 程序员（默认）
+      link: https://chocolate.blog.csdn.net/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      descr: 蓝色呼吸灯
+      color: "#0078e7"
+      custom: link_custom #动画样式
+      time: 2s
+      # 鼠标悬停旋转角度
+      rotate: 360deg
+    3:
+      name: 炫彩样式
+      link: https://chocolate.blog.csdn.net/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      descr: 炫彩呼吸灯
+      color: "#0078e7"
+      custom: link_custom1 #动画样式
+      time: 2s
+      # 鼠标悬停旋转角度
+      rotate: 360deg
