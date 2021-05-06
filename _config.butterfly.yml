@@ -40,7 +40,7 @@ copy:
 social:
   fab fa-github: https://github.com/wsffaa/ || Github
   fas fa-envelope: mailto:1294714904@qq.com || Email
-  
+
 
 # search (搜索)
 # --------------------------------------
@@ -91,7 +91,7 @@ disable_top_img: false
 index_img: https://cdn.jsdelivr.net/gh/wscffaa/PICGO//20210423162926.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506134909.jpg
 #scffaa/picgo/raw/master/20210422130438.png
 
 # The banner image of archive page
