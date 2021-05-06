@@ -5,7 +5,11 @@ tags:
 categories: 公众号
 description: 公众号文章结构以及关键词对应表
 cover: https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506095711.png
-sticky: 10086
+sticky: 10
+abbrlink: keyWords
+swiper_index: 8
+swiper_desc: 公众号文章结构以及关键词对应表
+swiper_cover: https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506095711.png
 date: 2021年4月23日16:28:35
 ---
 # ==公众号文章结构以及关键词对应表==

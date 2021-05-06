@@ -9,6 +9,7 @@
 menu:
   首页: / || fa fa-home
   时间轴: /archives/ || fa fa-archive
+  摄影集: /Gallery/ || fa fa-camera
   标签: /tags/ || fa fa-tags
   分类: /categories/ || fa fa-folder-open
 
@@ -39,6 +40,7 @@ copy:
 social:
   fab fa-github: https://github.com/wsffaa/ || Github
   fas fa-envelope: mailto:1294714904@qq.com || Email
+  
 
 # search (搜索)
 # --------------------------------------
@@ -697,8 +699,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date: 21/04/2021 00:00:00
+  enable: true
+  publish_date: 2021/04/21 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
