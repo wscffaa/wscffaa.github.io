@@ -86,7 +86,7 @@ date: 2021年4月23日16:28:35
 |  4   | [知网论文[全PDF下载]，从此告别CAJ阅读器](https://mp.weixin.qq.com/s/f4wZIVhqBfqtqeYyvRcQPQ) |    知网    |    <font color='red'>知网</font>    |               英文版：https://oversea.cnki.net               |
 |  5   | [深度学习炼丹炉配置教程](https://mp.weixin.qq.com/s/8jASwOYQPDA490Mi_-pB4w) |   服务器   | <font color='red'>**服务器**</font> |                              \                               |
 |  6   | [文献管理+文献下载教程](https://mp.weixin.qq.com/s/HdqHmYB2uXtI-XpNzTxxoQ) |    SCI     |  <font color='red'>**SCI**</font>   |                              \                               |
-|  7   |                                                              |            |                                     |                                                              |
+|  7   | [百度网盘终极不限速方案](https://mp.weixin.qq.com/s/WF44ZPyk7AbQHARLj2nJuQ) |            |  <font color='red'>**网盘**</font>  |            百度网盘共享超级会员网址，一月不到8元             |
 
 
 
