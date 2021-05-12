@@ -1,15 +1,14 @@
 ---
-title: 全网版权最多的两大宝藏音乐软件，免费下载无损格式音乐[windows+Mac]
-date: 2021-05-07 16:38:04
-tags:
-  -电脑武装笔记
-  -音乐
+title: '全网版权最多的两大宝藏音乐软件，免费下载无损格式音乐[windows+Mac]'
+tags: '-电脑武装笔记 -音乐'
 categories: 电脑武装笔记
-keywords: "音乐下载"
-abbrlink: 20210507
-swiper_index: 6
-swiper_desc: 全网音乐版权最多的两大宝藏软件，能收听还能下载[windows+Mac]
-swiper_cover: https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506095711.png
+keywords: 音乐下载
+swiper_index: 8
+swiper_desc: '全网音乐版权最多的两大宝藏软件，能收听还能下载[windows+Mac]'
+swiper_cover: 'https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506095711.png'
+abbrlink: 10341
+date: 2021-05-07 16:38:04
+cover: https://gitee.com/wscffaa/picgo/raw/master/20210507220725.jpg
 ---
 
 ### 一、前言

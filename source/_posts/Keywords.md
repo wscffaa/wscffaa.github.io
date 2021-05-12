@@ -7,13 +7,12 @@ description: 公众号文章结构以及关键词对应表
 cover: https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506095711.png
 sticky: 10
 abbrlink: keyWords
-swiper_index: 8
+swiper_index: 10
 swiper_desc: 公众号文章结构以及关键词对应表
 swiper_cover: https://cdn.jsdelivr.net/gh/wscffaa/PICGO/20210506095711.png
 date: 2021年4月23日16:28:35
 ---
-# ==公众号文章结构以及关键词对应表==
-
+# 公众号文章结构以及关键词对应表
 > <font color='red'>大家只需要在公众号：你我的灿烂人生，对话框内回复相关关键词即可获取相关资料！</font>
 
 ![image-20210422131834433](https://gitee.com/wscffaa/picgo/raw/master/20210422131834.png)
@@ -61,7 +60,7 @@ date: 2021年4月23日16:28:35
 | 26   | [全能影音播放器PotPlayer](https://mp.weixin.qq.com/s/saY4w4cE3jOjoAW2LyUV-A) |  PotPlayer   |  <font color='red'>16</font>  |                                                              |
 | 27   | [网易有道词典去广告](https://mp.weixin.qq.com/s/WOZMNzn8aqDBpWXyOJYvPw) |   有道词典   |  <font color='red'>17</font>  |                                                              |
 | 28   | [全网无损音乐下载神器](https://mp.weixin.qq.com/s/iIqdQ2VOIlk6Y8XQkyRPNw) |   无损音乐   |  <font color='red'>18</font>  |                                                              |
-|      |                                                              |              |                               |                                                              |
+| 29   | [全网版权最多的两大宝藏音乐软件，免费下载无损格式音乐[windows+Mac]](https://mp.weixin.qq.com/s/9mHPDsveUK0FRRZyn9J17w) |      \       |     <font color='red'>20210507</font>             |                                                              |
 |      |                                                              |              |                               |                                                              |
 
 
@@ -78,15 +77,17 @@ date: 2021年4月23日16:28:35
 
 ## SCI从无到有
 
-| 序号 |                           使用教程                           | 原始关键词 |            更新后关键词             |                           资料信息                           |
-| :--: | :----------------------------------------------------------: | :--------: | :---------------------------------: | :----------------------------------------------------------: |
-|  1   | [全网最全电子书搜索下载教程](https://mp.weixin.qq.com/s/rHo0xFI3b8NTaaifzLt3xg) |            |                  \                  |                              \                               |
-|  2   | [一文带你全方位了解与投递EI期刊](https://mp.weixin.qq.com/s/54MwIokeqlO_5QyvNlHDow) |            |                  \                  |                    The Engineering Index                     |
-|  3   | [全网两大最新SCI期刊智能查询和投稿系统](https://mp.weixin.qq.com/s/hopNItFV5Eo2roJEY7HsEA) |            |                  \                  | 官方网址：http://www.letpub.com.cn/index.php?page=journalapp |
-|  4   | [知网论文[全PDF下载]，从此告别CAJ阅读器](https://mp.weixin.qq.com/s/f4wZIVhqBfqtqeYyvRcQPQ) |    知网    |    <font color='red'>知网</font>    |               英文版：https://oversea.cnki.net               |
-|  5   | [深度学习炼丹炉配置教程](https://mp.weixin.qq.com/s/8jASwOYQPDA490Mi_-pB4w) |   服务器   | <font color='red'>**服务器**</font> |                              \                               |
-|  6   | [文献管理+文献下载教程](https://mp.weixin.qq.com/s/HdqHmYB2uXtI-XpNzTxxoQ) |    SCI     |  <font color='red'>**SCI**</font>   |                              \                               |
-|  7   | [百度网盘终极不限速方案](https://mp.weixin.qq.com/s/WF44ZPyk7AbQHARLj2nJuQ) |            |  <font color='red'>**网盘**</font>  |            百度网盘共享超级会员网址，一月不到8元             |
+| 序号 |                           使用教程                           | 原始关键词 |             更新后关键词              |                           资料信息                           |
+| :--: | :----------------------------------------------------------: | :--------: | :-----------------------------------: | :----------------------------------------------------------: |
+|  1   | [全网最全电子书搜索下载教程](https://mp.weixin.qq.com/s/rHo0xFI3b8NTaaifzLt3xg) |            |                   \                   |                              \                               |
+|  2   | [一文带你全方位了解与投递EI期刊](https://mp.weixin.qq.com/s/54MwIokeqlO_5QyvNlHDow) |            |                   \                   |                    The Engineering Index                     |
+|  3   | [全网两大最新SCI期刊智能查询和投稿系统](https://mp.weixin.qq.com/s/hopNItFV5Eo2roJEY7HsEA) |            |                   \                   | 官方网址：http://www.letpub.com.cn/index.php?page=journalapp |
+|  4   | [知网论文[全PDF下载]，从此告别CAJ阅读器](https://mp.weixin.qq.com/s/f4wZIVhqBfqtqeYyvRcQPQ) |    知网    |     <font color='red'>知网</font>     |               英文版：https://oversea.cnki.net               |
+|  5   | [深度学习炼丹炉配置教程](https://mp.weixin.qq.com/s/8jASwOYQPDA490Mi_-pB4w) |   服务器   |  <font color='red'>**服务器**</font>  |                              \                               |
+|  6   | [文献管理+文献下载教程](https://mp.weixin.qq.com/s/HdqHmYB2uXtI-XpNzTxxoQ) |    SCI     |   <font color='red'>**SCI**</font>    |                              \                               |
+|  7   | [百度网盘终极不限速方案](https://mp.weixin.qq.com/s/WF44ZPyk7AbQHARLj2nJuQ) |            |   <font color='red'>**网盘**</font>   |            百度网盘共享超级会员网址，一月不到8元             |
+|  8   | [永久免费翻译文档，支持109种外语翻译的网站,你确定不收藏?](https://mp.weixin.qq.com/s/AuZQ5j8UUgSgtfu0dQ3HJA) |     \      | <font color='red'>**20210510**</font> |                           在线翻译                           |
+|      |                                                              |            |                                       |                                                              |
 
 
 
@@ -107,7 +108,7 @@ date: 2021年4月23日16:28:35
 | :--: | :----------------------------------------------------------: | :--------: | :----------------------------------: | :------------------------------------------------: |
 |  1   | [Navicat Premium(数据库管理)破解版软件](https://mp.weixin.qq.com/s/v_ZAmmCtj-IKAFWPn6MQrA) |  Navicat   | <font color='red'>**Navicat**</font> |                Navicat的中文破解版                 |
 |  2   | [SQLservice2008R2](https://www.bilibili.com/video/BV1vi4y1M7ik) |    SQL     |   <font color='red'>**SQL**</font>   |                  SQLservice2008R2                  |
-|  3   |                    IDEA以及Pycharm激活码                     |   激活码   |                激活码                | 提取地址：https://muyinjiangxue.github.io/jhm.html |
+|  3   |                    IDEA以及Pycharm激活码                     |   激活码   | <font color='red'>**激活码**</font>  | 提取地址：https://muyinjiangxue.github.io/jhm.html |
 
 
 
